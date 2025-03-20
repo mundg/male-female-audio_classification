@@ -1,0 +1,15 @@
+name: audio_processing_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - requests
+  - librosa
+  - numpy
+  - pandas
+  - scipy
+  - beautifulsoup4
+  - scikit-learn
+  - statsmodels
+
